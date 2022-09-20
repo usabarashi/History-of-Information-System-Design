@@ -6,9 +6,12 @@
 
 # 1960
 
-# The structure theorem
+## Structured Programming
 
 - [Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules](https://dl.acm.org/doi/10.1145/355592.365646). Bohm, Corrado; Giuseppe Jacopini. 1966.
+- [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). Edsger Wybe Dijkstra. 1968.
+- [7.4 STRUCTURED PROGRAMMING](https://calculator-cafe.com/readings/Structured_programming/Structured_programming.html). Edsger Wybe Dijkstra. 1969.
+- [Structured programming](https://dl.acm.org/doi/book/10.5555/1243380). O. J. Dahl,E. W. Dijkstra,C. A. R. Hoare. 1972.
 
 # 2000
 

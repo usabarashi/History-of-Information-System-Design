@@ -2,8 +2,17 @@
 
 ![graph.dio.svg](./graph.dio.svg)
 
-
 # History
+
+# 2000
+
+## Domain Driven Design
+
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/). Eric Evans. 2003.
+- [DDD難民に捧げる Domain-Driven Designのエッセンス](https://www.ogis-ri.co.jp/otc/hiroba/technical/DDDEssence/). オージス総研. 2007.
+- [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/). Vaughn Vernon. 2013.
+
+# 2010
 
 ## Domain Modeling Made Functional
 

@@ -4,6 +4,12 @@
 
 # History
 
+# 1960
+
+# The structure theorem
+
+- [Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules](https://dl.acm.org/doi/10.1145/355592.365646). Bohm, Corrado; Giuseppe Jacopini. 1966.
+
 # 2000
 
 ## Domain Driven Design

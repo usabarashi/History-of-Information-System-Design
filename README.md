@@ -1,4 +1,4 @@
-# History-of-Information-System-Design
+# History of Information System Design
 
 ![graph.dio.svg](./graph.dio.svg)
 
@@ -10,8 +10,19 @@
 
 - [Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules](https://dl.acm.org/doi/10.1145/355592.365646). Bohm, Corrado; Giuseppe Jacopini. 1966.
 - [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). Edsger Wybe Dijkstra. 1968.
-- [7.4 STRUCTURED PROGRAMMING](https://calculator-cafe.com/readings/Structured_programming/Structured_programming.html). Edsger Wybe Dijkstra. 1969.
+- [7.4 STRUCTURED PROGRAMMING](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/). Edsger Wybe Dijkstra. 1969.
 - [Structured programming](https://dl.acm.org/doi/book/10.5555/1243380). O. J. Dahl,E. W. Dijkstra,C. A. R. Hoare. 1972.
+
+## Characteristics of Software Quality
+
+- Quantitative measurement of program quality, Proceedings of the 1968 23rd ACM national conference (ACM '68), pp.671-677. R. J. Rubey and R. D. Hartwick. 1968.
+- "Report of a Workshop on Programming Methodology," Proceedings of a Symposium on the High Cost of Software, Naval Postgraduate School, Monterey, California. Wulf. 1973.
+- "Characteristics of Software Quality," TRW Software Series, TRW-SS-73-09. Barry Boehm. 1973.
+- ["Quantitative evaluation of software quality,"](https://dl.acm.org/doi/abs/10.5555/800253.807736) 2nd ICSE. B. Boehm, J. Brown and M. Lipow. 1976.
+    > Development of methods for evaluating software quality appears to have first been attempted in an organized way by Rubey and Hartwick.  
+    > Wulf identified and provided concise definitions of seven important and reasonably non-overlapping attributes
+- [Factors in Software Quality](https://www.semanticscholar.org/paper/Factors-in-software-quality%3A-concept-and-of-quality-McCall-Richards/82a918fd83f1c0addb890ef313ff892807a10a11). J. McCall, P. A. Richards, G. Walters. 1977.
+- "Characteristics of Software Quality," TRW Series of Software Technology 1, North-Holland. Barry Boehm. 1978
 
 # 2000
 

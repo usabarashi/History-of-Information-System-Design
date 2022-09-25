@@ -24,6 +24,12 @@
 - [Factors in Software Quality](https://www.semanticscholar.org/paper/Factors-in-software-quality%3A-concept-and-of-quality-McCall-Richards/82a918fd83f1c0addb890ef313ff892807a10a11). J. McCall, P. A. Richards, G. Walters. 1977.
 - "Characteristics of Software Quality," TRW Series of Software Technology 1, North-Holland. Barry Boehm. 1978
 
+# 1970
+
+## Constantine's law
+
+- [Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design](https://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer/dp/0138544719). Larry Constantine. Edward Yourdon. 1979.
+
 # 2000
 
 ## Domain Driven Design

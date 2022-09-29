@@ -30,7 +30,23 @@
 
 - [Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design](https://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer/dp/0138544719). Larry Constantine. Edward Yourdon. 1979.
 
+# 1980
+
+## Spiral Model
+
+- [A Spiral Model of Software Development and Enhancement](https://ieeexplore.ieee.org/document/59). B. W. Boehm. 1988.
+
+# 1990
+
+## Extreme Programming
+
+- [Extreme Programming](https://www.computerworld.com/article/2585634/extreme-programming.html). Kent Beck. 1999.
+
 # 2000
+
+## Agile
+
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html). Kent Beck. Mike Beedle. Arie van Bennekum. Alistair Cockburn. Ward Cunningham. Martin Fowler. James Grenning. Jim Highsmith. Andrew Hunt. Ron Jeffries. Jon Kern. Brian Marick. Robert C. Martin. Steve Mellor. Ken Schwaber. Jeff Sutherland. Dave Thomas 2001.
 
 ## Domain Driven Design
 

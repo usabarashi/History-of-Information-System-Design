@@ -24,6 +24,10 @@
 - [Factors in Software Quality](https://www.semanticscholar.org/paper/Factors-in-software-quality%3A-concept-and-of-quality-McCall-Richards/82a918fd83f1c0addb890ef313ff892807a10a11). J. McCall, P. A. Richards, G. Walters. 1977.
 - "Characteristics of Software Quality," TRW Series of Software Technology 1, North-Holland. Barry Boehm. 1978
 
+## Conway's law
+
+- [How Do Committees Invent?](http://www.melconway.com/Home/Committees_Paper.html). Melvin E. Conway. 1968.
+
 # 1970
 
 ## Constantine's law
